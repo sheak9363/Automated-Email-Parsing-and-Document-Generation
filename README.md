@@ -74,7 +74,6 @@ This system automates the process of receiving input documents via email, extrac
 ## Contact
 For any inquiries or suggestions, please contact:
 
-Email: [alifnisha89295@gmail.com]
+Email: [abisheakanburajaofficial@gmail.com]
 
-GitHub: [(https://github.com/sheak9363)]
 
