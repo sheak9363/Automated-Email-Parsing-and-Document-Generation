@@ -43,3 +43,4 @@ This system automates the process of receiving input documents via email, extrac
 ---
 
 ## File Structure
+AutomatedBudgetSystem/ ├── notebooks/ │ ├── pdf_processing.ipynb # Parses PDF and generates cost sheets │ ├── recieve_send_email.ipynb # Handles email operations ├── data/ │ ├── input/ # Stores input files temporarily │ ├── output/ # Stores generated outputs ├── scripts/ │ ├── process_pdf.py # Script for PDF processing │ ├── email_handler.py # Script for email handling ├── README.md # Project documentation ├── requirements.txt # Python dependencies
